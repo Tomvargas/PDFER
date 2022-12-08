@@ -7,3 +7,4 @@ The libraries you need:
 * pathlib
 * PyPDF2
 * docx2pdf
+* pywin32
